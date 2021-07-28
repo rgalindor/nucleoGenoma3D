@@ -1,0 +1,53 @@
+set bg_rgb, [1,1,1]
+select croma, chain a
+set_color robera = [1,0.64,0]
+color robera, croma
+select cromb, chain b
+set_color roberb = [0.93,0.60,0]
+color roberb, cromb
+select cromc, chain c
+set_color roberc = [0.86,0.56,0]
+color roberc, cromc
+select cromd, chain d
+set_color roberd = [0.8,0.51,0]
+color roberd, cromd
+select crome, chain e
+set_color robere = [0.73,0.47,0]
+color robere, crome
+select cromf, chain f
+set_color roberf = [0.66,0.43,0]
+color roberf, cromf
+select cromg, chain g
+set_color roberg = [0.6,0.38,0]
+color roberg, cromg
+select cromh, chain h
+set_color roberh = [0.53,0.34,0]
+color roberh, cromh
+select cromi, chain i
+set_color roberi = [0.46,0.3,0]
+color roberi, cromi
+select cromj, chain j
+set_color roberj = [0.4,0.26,0]
+color roberj, cromj
+select cromk, chain k
+set_color roberk = [0.33,0.21,0]
+color roberk, cromk
+select croml, chain l
+set_color roberl = [0.27,0.17,0]
+color roberl, croml
+select cromm, chain m
+set_color roberm = [0.2,0.13,0]
+color roberm, cromm
+select cromn, chain n
+set_color robern = [0.13,0.08,0]
+color robern, cromn
+select cromo, chain o
+set_color robero = [0.06,0.04,0]
+color robero, cromo
+select cromp, chain p
+set_color roberp = [0,0,0]
+color roberp, cromp
+
+
+
+
